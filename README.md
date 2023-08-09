@@ -1,8 +1,21 @@
 # Coursera
 From the Meta - Front end Developer
-# Create a HTML Documents
+# Create a HTML Documents 
+Add the DOCTYPE. |
+Add the HTML, head and body elements. |
+Add the title element. |
+Add the text to the body element.
 # Create and style a webpage
+Add photo.jpg to the webpage. |
+Add your name as a heading to the webpage. |
+Add an unordered list of your five favorite music artists. |
+Add an ordered list of your top five favorite films. |
+Add a hyperlink to your Facebook profile, or, meta.com.
 # Styling a page
+Define a CSS rule using an element selector. |
+Define a CSS rule using an id selector. |
+Define a CSS rule using a class selector. |
+Define a CSS rule using a descendant selector. 
 # Working with Bootstrap grid
 Set up the Bootstrap container. |
 Display the Little Lemon logo in the top center of the webpage using Bootstrap. |
