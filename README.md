@@ -29,3 +29,8 @@ Change the Meta profile link to use a Bootstrap button style.
 Add a Badge component to the page to notify customers of the new falafel dish. |
 Add an Alert component to the page to notify customers that the restaurant will be closed on New Year's Day. |
 Add a Button component to the page with the text Order Online.
+# Building a Functional Programming
+Task 1: Build a function-based console log message generator. |
+Task 2: Build another console log message generator. |
+Task 3: Run both the consoleStyler and the celebrateStyler functions. |
+Task 4: Insert a congratulatory and custom message.
