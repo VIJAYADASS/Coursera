@@ -35,7 +35,7 @@ Task 2: Build another console log message generator. |
 Task 3: Run both the consoleStyler and the celebrateStyler functions. |
 Task 4: Insert a congratulatory and custom message.
 # Building an OOP
-Task 1: Code a Person class.|
+Task 1: Code a Person class. |
 Task 2: Code a Worker class. |
 Task 3: Code a intern object. |
 Task 4: Code a manager object.
