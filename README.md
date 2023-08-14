@@ -39,3 +39,5 @@ Task 1: Code a Person class. |
 Task 2: Code a Worker class. |
 Task 3: Code a intern object. |
 Task 4: Code a manager object.
+# Array and Object iteration
+In this exercise, use the for....of loop to iterate over an array and to iterate over an object's own properties. 
