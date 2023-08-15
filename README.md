@@ -41,6 +41,6 @@ Task 3: Code a intern object. |
 Task 4: Code a manager object.
 # Array and Object iteration
 In this exercise, use the for....of loop to iterate over an array and to iterate over an object's own properties. 
-# Webpaage content Update
+# Webpage content Update
 The aim of this exercise is to access the content of an element, specifically to use a button click to replace text.| Task 1: The example.com website | Task 2: Get h1 into a variable | Task 3: Code an array | Task 4: Write a click-handling function | Task 5: Add an event listener
 
