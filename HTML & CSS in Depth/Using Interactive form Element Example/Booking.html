@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Arabian Restraunt</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="Booking.html">Booking</a></li>
+            <li><a href="About.html">About</a></li>
+        </ul>
+    </nav>
+    <header>
+        <img src="logo.png" alt="Restraunt logo">
+    </header>
+    <main>
+        <h1>Book a Table</h1>
+        <form method="POST"></form>
+            <div>
+                <label for="booking_date">Booking Date</label>
+                <input type=" date" id="booking_date" name="booking_date">
+            </div>
+            <div>
+                <label for="booking_people">Number of People</label>
+                <input type=" range" id="booking_people" name="booking_people" min="1" max="10" value="4" oninput="this.nextElementSibiling.value = this.value">
+                <output>4</output>
+            </div>
+            <div>
+                <label for="Booking_location">Location</label>
+                <input  id="Booking_location" name="Booking_location" list="Booking_location">
+                <datalist id="locations">
+                    <option value="Downtown"></option>
+                    <option value="Uptown"></option>
+                </datalist>
+            </div>
+
+        <button type="submit">Book Table</button>
+    </main>
+    
+    <footer>
+        <p>Copyrigths for Arabian Restraunt</p>
+    </footer>
+      
+    
+</body>
+</html>
