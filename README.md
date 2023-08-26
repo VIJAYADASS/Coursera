@@ -47,3 +47,5 @@ The aim of this exercise is to access the content of an element, specifically to
 Create a basic login form for the Little Lemon website. | The form will contain two fields: one for the username and another for the password. | Both fields are required fields and must have a minimum text length of | 2. The form will also contain a button to submit the form.
 # Create a complex form
 You’ll create a table booking form for the Little Lemon website. The form will contain four fields: email address, date of booking, number of people, and a checkbox to confirm agreement with the cancellation policy. The form will also have a submit button.
+# Rate the media
+You’ll create a web page for rating a video. The page will display a video player with playback controls. There will also be an HTML form for rating the video. The form will contain a slider element to rate video between 1 out of 5 and 5 out of 5.
