@@ -45,3 +45,5 @@ In this exercise, use the form....of the loop to iterate over an array and to it
 The aim of this exercise is to access the content of an element, specifically to use a button click to replace text.| Task 1: The example.com website | Task 2: Get h1 into a variable | Task 3: Code an array | Task 4: Write a click-handling function | Task 5: Add an event listener
 # HTML & CSS In Depth... Create and test a form
 Create a basic login form for the Little Lemon website. | The form will contain two fields: one for the username and another for the password. | Both fields are required fields and must have a minimum text length of | 2. The form will also contain a button to submit the form.
+# Create a complex form
+You’ll create a table booking form for the Little Lemon website. The form will contain four fields: email address, date of booking, number of people, and a checkbox to confirm agreement with the cancellation policy. The form will also have a submit button.
