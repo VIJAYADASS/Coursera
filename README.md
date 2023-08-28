@@ -49,3 +49,5 @@ Create a basic login form for the Little Lemon website. | The form will contain 
 You’ll create a table booking form for the Little Lemon website. The form will contain four fields: email address, date of booking, number of people, and a checkbox to confirm agreement with the cancellation policy. The form will also have a submit button.
 # Rate the media
 You’ll create a web page for rating a video. The page will display a video player with playback controls. There will also be an HTML form for rating the video. The form will contain a slider element to rate video between 1 out of 5 and 5 out of 5.
+# Create a grid layout
+ you will be creating a grid layout commonly called the Holy Grail layout 
