@@ -1,0 +1,39 @@
+body {
+    border: 1px solid black;
+    display: grid;
+    height: 200px;
+    grid-template-rows: 30px 1fr 30px;
+    grid-template-columns: 150px 1fr 50px;
+    grid-template-areas: 
+        "head head head"
+        "nav  main main"
+        "article article article" 
+        "foot foot foot";
+}
+
+
+
+header {
+    grid-area: head;
+    background-color: lightsalmon; 
+} 
+
+nav {
+    grid-area: nav;
+    background-color: lightblue; 
+} 
+   
+main {
+    grid-area: main;
+    background-color: lightseagreen; 
+} 
+
+article{
+    grid-column: article;
+    background-color: lightgreen;
+}
+
+footer {
+    grid-area: foot;
+    background-color: firebrick; 
+} 
