@@ -1,8 +1,8 @@
 body{
     display: grid;
     height: 150vh;
-    grid-template-rows: auto 1fr auto;
-
+    grid-template-rows: auto 1fr auto; 
+    /* fr-fractions */
 }
 
 header{
