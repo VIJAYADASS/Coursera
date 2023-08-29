@@ -50,4 +50,7 @@ You’ll create a table booking form for the Little Lemon website. The form will
 # Rate the media
 You’ll create a web page for rating a video. The page will display a video player with playback controls. There will also be an HTML form for rating the video. The form will contain a slider element to rate video between 1 out of 5 and 5 out of 5.
 # Create a grid layout
- you will be creating a grid layout commonly called the Holy Grail layout 
+ You will be creating a grid layout commonly called the Holy Grail layout 
+# Targeted CSS
+You will practice using combination selectors to create a menu for the Little Lemon restaurant.
+
