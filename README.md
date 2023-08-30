@@ -53,4 +53,6 @@ You’ll create a web page for rating a video. The page will display a video pla
  You will be creating a grid layout commonly called the Holy Grail layout 
 # Targeted CSS
 You will practice using combination selectors to create a menu for the Little Lemon restaurant.
+# Transform and Transition property
+To animate the letter boxes created on the webpage using the transform and transition properties inside CSS to add interactivity to the page.
 
