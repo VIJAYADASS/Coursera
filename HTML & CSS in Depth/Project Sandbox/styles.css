@@ -50,115 +50,92 @@ nav li {
     color: darkslateblue;
 }
 
+/* Background-image for row  */
+section .background-row {
+  width: 99%;
+  height: auto;
+  border-radius: 10px;
+  background-image: url("Veg.jpg");  
+  background-size: cover;  
+  background-position: center;  
+  background-repeat: no-repeat;
+  margin: 0 auto;  
+  position:relative;
+}
+
+
+.content {
+  padding: 5px;
+  color: black;
+  text-align:left;
+}
+
+/* flex container using add the three columns */
+
+.flex-container{
+  display: flex;
+          justify-content: space-between;  
+          width: 100%;
+}
+
+.column {
+  flex: 1;  
+  background-color: darkseagreen;
+  background-size: cover;  
+  background-position: center; 
+  background-repeat: no-repeat;
+  position: relative;
+  color:black ;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-top: 15px;
+  text-align: left;
+  overflow: hidden;
+  font-size:15px;
+  
+}
+
+.column > img {
+  padding: 2px;
+  width:100%;
+}
+
 section {
     display: flex;
+    font-size: 10px;
 }
 
 article {
     flex: 1;
-}
-
-footer{
-    display: flex;
-     
-}
-
-footer div  {
-    flex: 1;
+    padding: 5px;
     
 }
 
-div > img {
-    width: 50px;
+/* Footer Add the two columns */
+footer {
+  color: black;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-/* body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-  header {
-    background-color: #f8f8f8;
-    padding: 10px;
-  }
-  
-  .logo {
-    max-width: 150px;
-  }
-  
-  main {
-    padding: 20px;
-  }
-  
-  .banner {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 20px;
-  }
-  
-  .banner-content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-  
-  .banner h1 {
-    font-size: 2.5rem;
-    margin: 0;
-  }
-  
-  .banner-image img {
-    max-width: 100%;
-    height: auto;
-  }
-  
-  .footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .footer-logo img {
-    max-width: 80px;
-  }
-  
-  .footer-info p {
-    margin: 0;
-  }
 
-  .menu {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
-    margin-top: 30px;
-  }
-  
-  .menu-item {
-    text-align: center;
-    padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-  }
-  
-  .menu-item img {
-    max-width: 100%;
-    height: auto;
-    margin-bottom: 10px;
-  }
-  
-  .menu-item h2 {
-    font-size: 1.5rem;
-    margin: 10px 0;
-  }
-  
-  .menu-item p {
-    margin: 0;
-  }
-   
-  
-  /* Add additional styling and effects as needed */
-  /* ... Previous styles ... */
+.footer-left {
+  display: flex;
+  align-items: center;
+}
+
+.footer-left img {
+  width: 50px;  
+  height: auto;
+  margin-right: 10px; 
+  border-radius: 2px; 
+}
+
+.footer-right {
+  text-align:center;
+  padding-left: 860px;
+}
+
+
 
