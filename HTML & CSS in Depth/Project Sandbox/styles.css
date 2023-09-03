@@ -154,41 +154,40 @@ flex-basis: 100%;
 
 /* Footer Add the two columns */
 
-
 footer {
-color: black;
-padding: 20px;
-display: flex;
-justify-content: space-between;
-align-items: center;
-margin: 5px 5px;
-margin-top: 20px;
+  color: black;
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 5px;
+  margin-top: 20px;
 }
 
 .footer-left {
-display: flex;
-align-items: center;
+  display: flex;
+  align-items: center;
 }
 
 .footer-left img {
-width: 50px;  
-height: auto;
-/* margin-right: 10px;  */
-border-radius: 2px; 
-/* margin-top: 20px; */
+  width: 50px;  
+  height: auto;
+  margin-right: 10px; 
+  border-radius: 2px; 
+  margin-top: 20px;
 }
 
 .footer-right {
-text-align:center;
-padding-left:  800px;
+  text-align: right;
 }
 
+
 /* .footer-right::before {
-content: "";
-position: absolute;
-top: -5px; Adjust the position as needed
-left: 0;
-right: 0;
-border-top: 1px solid black; Adjust the underline style
+  content: "";
+  position: absolute;
+  top: -5px; Adjust the position as needed
+  left: 0;
+  right: 0;
+  border-top: 10px solid black; Adjust the underline style
 } */
 
