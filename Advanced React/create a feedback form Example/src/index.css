@@ -5,6 +5,12 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    width: 50%;
+    height: auto;
+    margin-top: 90px;
+    margin-left: 100px;
+    
+    
 }
 
 code {
