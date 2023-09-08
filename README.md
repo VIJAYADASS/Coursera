@@ -43,7 +43,7 @@ Task 4: Code a manager object.
 In this exercise, use the form....of the loop to iterate over an array and to iterate over an object's own properties. 
 # Webpage Content Update
 The aim of this exercise is to access the content of an element, specifically to use a button click to replace text.| Task 1: The example.com website | Task 2: Get h1 into a variable | Task 3: Code an array | Task 4: Write a click-handling function | Task 5: Add an event listener
-# HTML & CSS In Depth | Create and test a form
+# HTML & CSS In-Depth | Create and test a form
 Create a basic login form for the Little Lemon website. | The form will contain two fields: one for the username and another for the password. | Both fields are required fields and must have a minimum text length of | 2. The form will also contain a button to submit the form.
 # Create a complex form
 You’ll create a table booking form for the Little Lemon website. The form will contain four fields: email address, date of booking, number of people, and a checkbox to confirm agreement with the cancellation policy. The form will also have a submit button.
@@ -55,6 +55,10 @@ You’ll create a web page for rating a video. The page will display a video pla
 You will practice using combination selectors to create a menu for the Little Lemon restaurant.
 # Transform and Transition property
 To animate the letter boxes created on the webpage using the transform and transition properties inside CSS to add interactivity to the page.
-# Advanced React | Create a Registration form
-create controlled components and forms in React. Now it's time to put that knowledge to use and create a registration form for Little Lemon Restaurant, where users are able to sign up.
+# Advanced React |  Create a basic list component
+The Little Lemon restaurant has decided to remove all desserts with high calories from their menu. | 
+In this lab, you are going to implement a new list component, DessertsList, that will display a list of desserts with less than 500 calories, all sorted by calories, from low to high. |
+The data you have to work with has been provided to you inside the App.js file, as an array of objects. | Each object represents a dessert and has the following properties: name, calories, and createdAt. | The App component passes that information to the DessertsList component as a prop named data. | Each item from the list should display the name of the dessert and the number of calories, both separated by a dash character, i.e. Chocolate Mousse - 250 cal.
+# Create a Registration form
+To create controlled components and forms in React. Now it's time to put that knowledge to use and create a registration form for Little Lemon Restaurant, where users are able to sign up.
 
