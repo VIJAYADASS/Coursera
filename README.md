@@ -61,4 +61,5 @@ In this lab, you are going to implement a new list component, DessertsList, that
 The data you have to work with has been provided to you inside the App.js file, as an array of objects. | Each object represents a dessert and has the following properties: name, calories, and createdAt. | The App component passes that information to the DessertsList component as a prop named data. | Each item from the list should display the name of the dessert and the number of calories, both separated by a dash character, i.e. Chocolate Mousse - 250 cal.
 # Create a Registration form
 To create controlled components and forms in React. Now it's time to put that knowledge to use and create a registration form for Little Lemon Restaurant, where users are able to sign up.
-
+# Create a light-dark theme switcher
+You've learned about React Context and how it allows you to define global state without passing individual props down through each component. One of the most common use cases for Context is to define a theme for your application. In this exercise, you'll create a light-dark theme switcher.
