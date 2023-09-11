@@ -62,6 +62,8 @@ The data you have to work with has been provided to you inside the App.js file, 
 # Create a Registration form
 To create controlled components and forms in React. Now it's time to put that knowledge to use and create a registration form for Little Lemon Restaurant, where users are able to sign up.
 # Create a light-dark theme switcher
-You've learned about React Context and how it allows you to define global state without passing individual props down through each component. One of the most common use cases for Context is to define a theme for your application. In this exercise, you'll create a light-dark theme switcher.
+You've learned about React Context and how it allows you to define a global state without passing individual props down through each component. One of the most common use cases for Context is to define a theme for your application. In this exercise, you'll create a light-dark theme switcher.
 # Managing state within a component
 This code lab's app shows a Gift Card page of the Little Lemon Restaurant web app, where a visitor initially has a Gift Card that they can use to have a dinner for four.
+# Can you fetch data
+you'll practice fetching some data from the random user.mewebsite's API
