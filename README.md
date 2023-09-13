@@ -20,7 +20,7 @@ Define a CSS rule using a descendant selector.
 Set up the Bootstrap container. |
 Display the Little Lemon logo in the top center of the webpage using Bootstrap. |
 Display the food menu in two columns using Bootstrap Grid.
-# Improve your page with bootstrap components
+# Improve your Bio page with Bootstrap
 Add a Bootstrap Grid to the page. |
 Set up the grid so that the content will be laid out correctly on both mobile and desktop. |
 Configure your photo to be responsive. |
@@ -66,4 +66,4 @@ You've learned about React Context and how it allows you to define a global stat
 # Managing state within a component
 This code lab's app shows a Gift Card page of the Little Lemon Restaurant web app, where a visitor initially has a Gift Card that they can use to have a dinner for four.
 # Can you fetch data
-you'll practice fetching some data from the random user.mewebsite's API
+You'll practice fetching some data from the random user. website's API
