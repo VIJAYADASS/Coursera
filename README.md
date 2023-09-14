@@ -64,6 +64,12 @@ To create controlled components and forms in React. Now it's time to put that kn
 # Create a light-dark theme switcher
 You've learned about React Context and how it allows you to define a global state without passing individual props down through each component. One of the most common use cases for Context is to define a theme for your application. In this exercise, you'll create a light-dark theme switcher.
 # Managing state within a component
-This code lab's app shows a Gift Card page of the Little Lemon Restaurant web app, where a visitor initially has a Gift Card that they can use to have a dinner for four.
+This code lab's app shows a Gift Card page of the Little Lemon Restaurant web app, where a visitor initially has a Gift Card that they can use to have dinner for four.
 # Can you fetch data
 You'll practice fetching some data from the random user. website's API
+# Create your Portfolio react
+In this final lab, you are going to create a portfolio page for yourself. You will be using the skills you have learned in this course to create a page that showcases your work. The portfolio page will be a single page that will contain the following sections:
+A header with external links to social media accounts and internal links to other sections of the page |
+A landing section with an avatar picture and a short bio|
+A section to display your featured projects as cards in a grid fashion |
+A contact me section with a form to allow visitors to contact you |
