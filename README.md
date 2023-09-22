@@ -75,3 +75,5 @@ A section to display your featured projects as cards in a grid fashion |
 A contact me section with a form to allow visitors to contact you |
 # UI & UX Principle | Grid and Constraints
 create the responsive grid in Figma
+# crrate the grid for tablet and mobile
+Following on from a previous video where you learned how to create a grid for a desktop in Figma, let's create tablet and phone grids. To start creating a new grid, press F on the keyboard to bring up the frame's menu on the right sidebar. Then open the tablet menu and select an iPad mini. 
