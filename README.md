@@ -77,3 +77,5 @@ A contact me section with a form to allow visitors to contact you |
 create the responsive grid in Figma
 # crrate the grid for tablet and mobile
 Following on from a previous video where you learned how to create a grid for a desktop in Figma, let's create tablet and phone grids. To start creating a new grid, press F on the keyboard to bring up the frame's menu on the right sidebar. Then open the tablet menu and select an iPad mini. 
+# Design - Text hierarchy and grid
+This straightforward exercise is an excellent way to improve your layout and typography skills. It employs a 12-column grid system that is widely used on the web and has been around for a long time.
