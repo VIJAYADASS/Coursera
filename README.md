@@ -73,3 +73,5 @@ A header with external links to social media accounts and internal links to othe
 A landing section with an avatar picture and a short bio|
 A section to display your featured projects as cards in a grid fashion |
 A contact me section with a form to allow visitors to contact you |
+# UI & UX Principle | Grid and Constraints
+create the responsive grid in Figma
