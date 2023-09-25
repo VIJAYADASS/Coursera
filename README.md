@@ -79,3 +79,5 @@ create the responsive grid in Figma
 Following on from a previous video where you learned how to create a grid for a desktop in Figma, let's create tablet and phone grids. To start creating a new grid, press F on the keyboard to bring up the frame's menu on the right sidebar. Then open the tablet menu and select an iPad mini. 
 # Design - Text hierarchy and grid
 This straightforward exercise is an excellent way to improve your layout and typography skills. It employs a 12-column grid system that is widely used on the web and has been around for a long time.
+# Design a UI Button Components in Figma
+You will design a UI button component in Figma. Components are reusable design elements. Think of them as building blocks. Components help give consistency to your designs and allow you to apply adjustments across multiple files and projects rapidly.
