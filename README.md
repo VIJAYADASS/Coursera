@@ -81,3 +81,6 @@ Following on from a previous video where you learned how to create a grid for a 
 This straightforward exercise is an excellent way to improve your layout and typography skills. It employs a 12-column grid system that is widely used on the web and has been around for a long time.
 # Design a UI Button Components in Figma
 You will design a UI button component in Figma. Components are reusable design elements. Think of them as building blocks. Components help give consistency to your designs and allow you to apply adjustments across multiple files and projects rapidly.
+# Front-End Capstone |  Wireframing the project
+You will create a wireframe of the homepage of the Little Lemon website. On completion, you will have all the skills to wireframe your design solution for your project on the reserve-a-table section of the Little Lemon website. 
+
